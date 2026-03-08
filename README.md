@@ -2,7 +2,7 @@
 
 📚 **Análise e Desenvolvimento de Sistemas** - SPTech, São Paulo Tech School
 
-💻 Desenvolvedora backend com foco em **Java e APIs**
+💻 Desenvolvedora backend com foco em **Java e Spring Framework**
 
 ---
 
