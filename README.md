@@ -1,16 +1,19 @@
-## Hi there 👋
+Oii! ☺️ Eu sou a **Giovanna Mafra**!! ✨
 
-<!--
-**giomafra/giomafra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📚 **Análise e Desenvolvimento de Sistemas** - SPTech, São Paulo Tech School
 
-Here are some ideas to get you started:
+💻 Desenvolvedora backend com foco em **Java e APIs**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Habilidades 🚀
+
+☕ Java
+🌱 Spring Framework
+📡 APIs REST
+🗄️ MySQL / SQL
+🐳 Docker
+☁️ AWS
+🟢 Node.js
+⚛️ React
+💻 JavaScript
+🌐 HTML
+🎨 CSS
